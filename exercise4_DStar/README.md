@@ -1,2 +1,4 @@
-# POS2017
-documentation, examples, exercises for the CMS Physics Object School 
+# POS2017 TRK-POG
+
+## Build D*
+
