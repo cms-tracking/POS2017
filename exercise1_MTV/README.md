@@ -3,7 +3,7 @@
 ## Exercise1 MultiTrackValidator and DQM
 
 ### SingleMuon phase1 vs phase0
-1. bootstrap CMSSW_9_3_0
+1. bootstrap CMSSW_9_3_0_pre5
 2. find workflows for SingleMu
 3. run it for phas0 and phase1  (2000 events using 4 threads)
 4. use MTV to produce comparison plots
